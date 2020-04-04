@@ -26,13 +26,13 @@ require_once "../Controller/WeatherController.php";
             <div class="container">
                 <div class="card-block p-25">
                     <h3>
-                        <span class="font-size-30"></span><?php echo $zone ?>
+                        <span class="font-size-30"><?php echo $zone ?></span>
                     </h3>
                     <p class="weather-day-date mb-30">
                         <span class="mr-5"><?php echo $jour ?></span><?php echo $JouNbANS ?>
                     </p>
                     <div class="mb-30">
-                        <span>
+                        <span id="icon">
                             <?php echo $icon ?>
                         </span>
 
