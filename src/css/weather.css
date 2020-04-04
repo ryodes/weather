@@ -1,0 +1,22 @@
+h3 {
+    margin-top: 22px;
+    margin-bottom: 11px;
+    text-shadow: rgba(0, 0, 0, .15) 0 0 1px;
+    font-size: 1.715rem;
+}
+
+.row {
+    justify-content: center;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.font-size-50 {
+    font-size: 50px;
+}
+
+#accueil {
+    text-align: center;
+}
